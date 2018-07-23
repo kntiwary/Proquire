@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B246EC2B-DE1E-45BC-AF54-1EAB4AF6DC01}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proquire/Controls/ExtendedEditorControl.cs">
+    <Files>
+      <File FileName="Proquire/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="Proquire/ProquirePage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Proquire/ProquirePage.xaml" Line="5" Column="1" />
+      <File FileName="Proquire/Model/Message.cs" Line="7" Column="41" />
+      <File FileName="Proquire/ViewModel/ChatPageViewModel.cs" Line="17" Column="35" />
+      <File FileName="Proquire/View/Cells/IncomingViewCell.xaml" Line="13" Column="1" />
+      <File FileName="Proquire/View/Cells/IncomingViewCell.xaml.cs" Line="9" Column="34" />
+      <File FileName="Proquire/View/Cells/OutgoingViewCell.xaml" Line="13" Column="1" />
+      <File FileName="Proquire/View/Cells/OutgoingViewCell.xaml.cs" Line="8" Column="6" />
+      <File FileName="Proquire/Helpers/ChatTemplateSelector.cs" Line="20" Column="10" />
+      <File FileName="Proquire/Controls/ExtendedEditorControl.cs" Line="56" Column="34" />
+      <File FileName="Proquire/View/Partials/ChatInputBarView.xaml" Line="39" Column="1" />
+      <File FileName="Proquire/View/Partials/ChatInputBarView.xaml.cs" Line="22" Column="24" />
+      <File FileName="Proquire/View/ChatPage.xaml" Line="47" Column="1" />
+      <File FileName="Proquire/View/ChatPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Proquire.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Proquire.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2DD8E6A3-CCCF-4904-BDEE-0C2515B851F2">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Proquire.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
